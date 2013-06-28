@@ -649,7 +649,7 @@ ru:
     new_shipping_category: Новая категория доставки
     new_shipping_method: Новый способ доставки
     new_state: Новый регион/область
-    new_stock_location: Новое расположение склада
+    new_stock_location: Новый склад
     new_stock_movement: Новая транзакция склада
     new_stock_transfer: Новый трансфер склада
     new_tax_category: Новая категория налогов
@@ -691,7 +691,7 @@ ru:
     option_types: Товарные опции
     option_value: Возможное значение опции
     option_values: Возможные значения опции
-    optional:
+    optional: не обязательно
     options: Опции
     or: или
     or_over_price:
@@ -850,7 +850,7 @@ ru:
     rate: Ставка
     reason: Причина
     receive: Получить
-    receive_stock:
+    receive_stock: Получить склад
     received: Получен
     reference: Ссылка
     reference_cont: Ссылка содержит
@@ -971,9 +971,9 @@ ru:
     status: Статус
     stock_item: Товар
     stock_item_id: Идентификатор товара
-    stock_location: Расположение склада
+    stock_location: Склад
     stock_location_info: Информация о складе
-    stock_locations: Расположения склада
+    stock_locations: Склады
     stock_management: Управление складами
     stock_movements: Транзакции запасов склада
     stock_movements_for_stock_location: Транзакции склада по расположению
@@ -1025,7 +1025,7 @@ ru:
     tracking_url: Отслеживаемый путь
     tracking_url_placeholder: Заполните отслеживаемый путь
     transfer_from_location:
-    transfer_stock:
+    transfer_stock: Трансфер склада
     transfer_to_location:
     translations: Переводы
     tree: Дерево
