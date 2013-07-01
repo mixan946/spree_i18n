@@ -788,7 +788,7 @@ ru:
     product: Товар
     product_details: Описание товара
     product_has_no_description: У данного товара нет описания.
-    product_not_available_in_this_currency: This product is not available in the selected currency.
+    product_not_available_in_this_currency: Этот товар не доступен для данного курса валюты.
     product_properties: Свойства товара
     product_rule:
       choose_products: Выбранные товары
